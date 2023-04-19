@@ -10,6 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dubritto&show_icons=true" />
 </picture>
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubritto&layout=compact)](https://github.com/dubritto/github-readme-stats)
