@@ -10,4 +10,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dubritto&show_icons=true" />
 </picture>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dubritto)](https://github.com/dubritto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubritto&layout=compact)](https://github.com/dubritto/github-readme-stats)
