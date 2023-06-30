@@ -12,4 +12,3 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubritto&layout=compact)](https://github.com/dubritto/github-readme-stats)
